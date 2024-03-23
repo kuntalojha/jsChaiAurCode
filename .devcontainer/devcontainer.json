@@ -20,8 +20,9 @@
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
-				"vscode-icons-team.vscode-icons",
+				"material-icon-theme.material-icon-theme",
 				"wayou.vscode-todo-highlight",
+				"joshuahornby.one-monokai-theme", // Add "joshuahornby.one-monokai-theme" to the list of extensions
 				"formulahendry.code-runner" // Add "formulahendry.code-runner" to the list of extensions
 			],
 			"settings": {

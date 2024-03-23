@@ -21,7 +21,8 @@
 			"extensions": [
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
-				"wayou.vscode-todo-highlight"
+				"wayou.vscode-todo-highlight",
+				"formulahendry.code-runner" // Add "formulahendry.code-runner" to the list of extensions
 			],
 			"settings": {
 				"editor.fontSize": 20,
